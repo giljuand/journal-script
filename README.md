@@ -8,5 +8,5 @@ By default, this script requires you to download the Markdown editor Remarkable,
 
 **Note**: your most recent entry will not be appended to your main journal file until you write your next entry.
 
-##Keyboard shortcut
+## Keyboard shortcut
 I recommend connecting a keyboard shortcut to `bash /path/to/journal.sh` to make it even easier to write a journal entry.
