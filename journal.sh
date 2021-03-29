@@ -17,6 +17,7 @@ touch "$NEW_FILE"
 #adds the date as the heading
 echo -e "#$(date +"%A, %b %d, %Y %H:%M:%S")" >> "$NEW_FILE"
 
-#opens the file
+#opens the file using Remarkable
+#can be modified to open in a different Markdown editor
 remarkable "$NEW_FILE"
 
